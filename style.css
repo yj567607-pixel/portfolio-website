@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: #0d1117;
+    color: white;
+}
+
+/* Navbar */
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 40px;
+    background: #161b22;
+    position: sticky;
+    top: 0;
+}
+
+nav a {
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+/* Hero */
+header {
+    text-align: center;
+    padding: 80px;
+    background: linear-gradient(45deg, #00ffff, #0077ff);
+}
+
+header a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: black;
+    color: white;
+    text-decoration: none;
+}
+
+/* Sections */
+section {
+    padding: 50px;
+}
+
+/* Grid */
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Cards */
+.card {
+    background: #161b22;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    flex: 1 1 200px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+}
