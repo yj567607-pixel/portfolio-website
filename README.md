@@ -1,7 +1,7 @@
-# 👋 Hi, I'm a Frontend Developer
+# 👋 Hi, I'm a java Developer
 
 ## 🚀 About Me
-I am a passionate frontend developer who builds responsive and interactive web applications using HTML, CSS, and JavaScript. Currently learning React and backend development.
+I am a passionate java developer who builds responsive and interactive web applications using HTML, CSS, and JavaScript. Currently learning React and backend development.
 
 ---
 
@@ -31,7 +31,7 @@ A responsive Todo App built using HTML, CSS and JavaScript.
 
 ## 📈 Goals
 - Learn React.js  
-- Learn Node.js & Backend  
+- Learn java & Backend  
 - Build full-stack projects  
 - Get placement in IT company  
 
